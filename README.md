@@ -21,7 +21,8 @@
 [My Web](https://yiiiiijen.github.io/112-1-Web/HW/HW0/yijenweb.html))<br />
 [HW2](https://www.youtube.com/watch?v=RLU0m-mx4sM)<br />
 [HW3]()<br />
+![dice](https://github.com/yiiiiijen/112-1-Web/assets/113078633/c7e805e1-7f05-4a92-bf2c-367bd7062ea2)
 
 作業資料📰
 -------------
-[]
+[Dice problem](https://docs.google.com/document/d/1AS_MXZzOHqUHh4nLcScJs-82Q4DYHipqPwZ8uNn4iU0/edit?usp=sharing)<br />
