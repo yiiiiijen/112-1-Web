@@ -20,7 +20,7 @@
 -------------
 [My Web](https://yiiiiijen.github.io/112-1-Web/HW/HW0/yijenweb.html))<br />
 [HW2](https://www.youtube.com/watch?v=RLU0m-mx4sM)<br />
-[HW3]()<br />
+[HW3](https://youtu.be/0wkUa4PbMBE)<br />
 ![dice](https://github.com/yiiiiijen/112-1-Web/assets/113078633/c7e805e1-7f05-4a92-bf2c-367bd7062ea2)
 
 作業資料📰
