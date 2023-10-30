@@ -13,9 +13,15 @@
 [ChatGPT](https://chat.openai.com/)<br />
 [CRUD、MySQL-React Node.js📽️](https://www.youtube.com/watch?v=fPuLnzSjPLE)<br />
 [100 JS project](https://www.100jsprojects.com/projects)<br />
+[Dice Roll Simulator](https://www.100jsprojects.com/project/dice-roll-simulator)<br />
+[Github Dice Source Code](https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners/tree/main/projects/dice-roll-simulator)<br />
 
 作業連結區📜
 -------------
 [My Web](https://yiiiiijen.github.io/112-1-Web/HW/HW0/yijenweb.html))<br />
 [HW2](https://www.youtube.com/watch?v=RLU0m-mx4sM)<br />
 [HW3]()<br />
+
+作業資料📰
+-------------
+[]
