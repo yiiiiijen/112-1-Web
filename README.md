@@ -21,10 +21,9 @@
 [My Web](https://yiiiiijen.github.io/112-1-Web/HW1_Myweb/carousel/index.html)<br />
 [HW2](https://www.youtube.com/watch?v=RLU0m-mx4sM)<br />
 [HW3](https://youtu.be/0wkUa4PbMBE)<br />
-![new](https://github.com/yiiiiijen/112-1-Web/assets/113078633/26809fbc-7273-4561-82ff-a64602cc51e9)<br />
-[HW4](https://youtu.be/JOnCmu2IAig)
+[HW4](https://youtu.be/JOnCmu2IAig)<br />
 
 作業資料📰
 -------------
 [Dice problem](https://docs.google.com/document/d/1AS_MXZzOHqUHh4nLcScJs-82Q4DYHipqPwZ8uNn4iU0/edit?usp=sharing)<br />
-
+![new](https://github.com/yiiiiijen/112-1-Web/assets/113078633/26809fbc-7273-4561-82ff-a64602cc51e9)<br />
