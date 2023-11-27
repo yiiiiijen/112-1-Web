@@ -18,7 +18,8 @@
 
 作業連結區📜
 -------------
-[My Web](https://myintroweb.azurewebsites.net/)<br />
+[My Web + azure](https://myintroweb.azurewebsites.net/)<br />
+[My Web✨](https://yiiiiijen.github.io/web/carousel/index.html)<br />
 [HW2](https://www.youtube.com/watch?v=RLU0m-mx4sM)<br />
 [HW3](https://youtu.be/0wkUa4PbMBE)<br />
 [HW4](https://youtu.be/JOnCmu2IAig)<br />
